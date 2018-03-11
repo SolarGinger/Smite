@@ -104,7 +104,7 @@ hr {
     height: 100%
 }
 
-.menu h1.logo a {
+.menu h2.logo a {
     font-family: Raleway, Helvetica, Arial, sans-serif;
     font-size: 16px;
     font-weight: 800;
@@ -115,7 +115,7 @@ hr {
     margin-top: 20px;
 }
 
-.menu h1.logo a:hover {
+.menu h2.logo a:hover {
     color: #f0e67c;
 }
 
