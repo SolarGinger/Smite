@@ -78,6 +78,11 @@ hr {
     text-align: center;
 }
 
+.form-horizontal {
+	margin-bottom: 10em;
+	margin-top: 5em;
+}
+
 .mt {
     padding-top: 25px;
 }
@@ -117,11 +122,6 @@ hr {
 
 .menu h2.logo a:hover {
     color: #f0e67c;
-}
-
-.menu img.logo {
-    margin: 20px 0;
-    max-width: 160px;
 }
 
 .menu a {
